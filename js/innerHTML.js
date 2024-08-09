@@ -19,7 +19,7 @@ header.innerHTML =`
 				<li class="nav-item"><a class="nav-link " aria-current="page" href="disenografico.html">Curso de diseño grafico.</a></li>
 				<li class="nav-item"><a class="nav-link " aria-current="page" href="costura.html">Curso costura.</a></li>
 					
-		           
+		            
 		        </ul>
         	</div>
    	</div>
