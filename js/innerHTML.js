@@ -19,6 +19,7 @@ header.innerHTML =`
 				<li class="nav-item"><a class="nav-link " aria-current="page" href="disenografico.html">Curso de diseño grafico</a></li>
 				<li class="nav-item"><a class="nav-link " aria-current="page" href="costura.html">Curso costura</a></li>
 				<li class="nav-item"><a class="nav-link " aria-current="page" href="soldadura.html">Curso soldadura</a></li>	
+                <li class="nav-item"><a class="nav-link " aria-current="page" href="marketingDigital.html">Marketing Digital</a></li>	
 		       	
 		            
 		        </ul>
@@ -45,6 +46,8 @@ footer.innerHTML =`
 	          <div class="text-center col-10 col-sm-4 mb-4">
 	          	<a href="https://github.com/oscar95011804161" class=" col"><i class="bi bi-github"></i> Github</a></div> 
 	          <div class="text-center col-12"><a href="#" class=" col"> Pagina creada por oscar vanegas todos los derechos reservados 2023</a></div> 
+
+
 	    
 		</div>	
 	</div>
